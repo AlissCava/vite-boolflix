@@ -36,7 +36,7 @@ import SingleFilm from './SingleFilm.vue'
 .container{
     background-color: dimgrey;
     width: 100vw;
-    height: 100vh;
+    height: 100%;
 
     .row{
     width: 100%;
